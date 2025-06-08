@@ -2,6 +2,7 @@ module Text.PrettyPrint.Bernardy.Interface
 
 import Data.List1
 import Data.Vect
+import Data.SnocList
 import Data.SortedMap
 import Data.SortedSet
 import Text.PrettyPrint.Bernardy.Combinators
